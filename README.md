@@ -35,3 +35,7 @@ Proyecto **Shell, redirecciones de entrada/salida y filtros**: scripts de Bash q
 | 24-gifs | (avanzado) Archivos .gif regulares sin extension, ordenados. |
 | 25-acrostic | (avanzado) Decodifica un acrostico desde stdin. |
 | 26-the_biggest_fan | (avanzado) Top 11 hosts por solicitudes en un log TSV. |
+
+## basics
+
+Proyecto **Shell, introduccion**: 18 scripts de navegacion, listados, manejo de archivos y directorios, enlaces simbolicos y comodines. Consulta [basics/README.md](basics/README.md) para la descripcion de cada script.
